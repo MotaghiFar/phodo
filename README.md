@@ -4,10 +4,10 @@ phodo
 php pho mananger
 
 #License
+Copyright (c) 2014 [Mehrdad MotaghiFar](http://motaghifar.ir)
 
-The MIT License (MIT)
 
-	Copyright (c) 2014 [Mehrdad MotaghiFar](http://motaghifar.ir)
+	Copyright (c) 2014 Mehrdad MotaghiFar
 	
 	Permission is hereby granted, free of charge, to any person obtaining a copy
 	of this software and associated documentation files (the "Software"), to deal

@@ -10,7 +10,7 @@
  * @version		1.0
  */
 
-class db
+class phodo
 {
 
 	/**
